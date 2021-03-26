@@ -3,8 +3,6 @@
 
 **mosesokemwa/mosesokemwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Moses's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosesokemwa&count_private=true&theme=vue-dark&show_icons=true)
-
 
 <div align="center">
 	<br>
